@@ -14,7 +14,7 @@ BuzzConnect is a modern social media platform built from scratch using **PHP**, 
 
 | Admin Panel  | Total users|Total Posts | Comments | Reports |
 |--------------|------------|------------|----------|---------|
-| ![Admin](dash.png) | ![Users](user.png) | ![Posts](posts.png) || ![comments](com.png) | ![reporst](reports.png) 
+| ![Admin](dash.png) | ![Users](user.png) | ![Posts](posts.png) || ![comments](coom.png) | ![reporst](reports.png) 
 
 ---
 
